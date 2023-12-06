@@ -1,6 +1,4 @@
-OBilet 
-Test Senaryosu
-Page object model kullanılaralarak yapılmıstır.
+
 
 1. Yeni Üyelik Oluşturulması
 
@@ -18,23 +16,3 @@ tıklanır. “ Mail alanı dinamik olması artı olarak değerlendirilecektir �
 1.6 Alt sekmeden Ara butonuna tıklanır. Anasayfasının açıldığı doğrulanır.
 
 ------------------------------------------------------------------------------------------------------------------------------------
-
-2. Otel Rezervasyon yapma
-
-2.1 Obilet ana sayfasına girilerek Otel tabine tıklanır ve Otel rezervasyonu arama
-sayfasının açıldığı görülür.
-
-2.2 Bir gidilecek il veya ilçe seçilir. Gidiş tarihi ve Dönüş tarihi seçilir.
-
-2.3 Seçimler yapıldıktan sonra Otel ara butonuna tıklanır ve Otellerin listelendiği
-görülür.
-
-2.4 Otellerden herhangi bir seçilir.
-
-2.5 Otel detay sayfasına yönlendirilir. Buradan X bir Oda seçilir.
-
-2.6 Checkout sayfası açıldığı doğrulanır.
-
---------------------------------
-
-"# obilet_project" 
